@@ -5,4 +5,5 @@ The ingredients of the simulation are pretty simple:
 - Gaussian distribution of lap times, using Charles Leclerc and Fernando Alonso as an example, with different tyre compounds
 - Tyre degradation (I used a parabolic function for the interpolation of degradation)
 - Probability of overtaking when the gap fell below 1 second
+
 This algorithm is obviously far removed from complex race situations, where there is the possibility of a safety car, raining, colliding, etc.
